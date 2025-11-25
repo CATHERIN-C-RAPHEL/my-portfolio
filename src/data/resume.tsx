@@ -4,7 +4,7 @@ import { HomeIcon, NotebookIcon } from "lucide-react";
 export const DATA = {
   name: "Catherin C Raphel",
   initials: "CR",
-  url: "https://catherin.io",
+  url: "https://catherincraphel.vercel.app",
   location: "Thrissur, Kerala, India",
   locationLink: "",
   description:
@@ -35,7 +35,7 @@ export const DATA = {
   ],
   contact: {
     email: "catherincr19@gmail.com",
-    tel: "+91 9400096902",
+    tel: "",
     social: {
       // GitHub: {
       //   name: "GitHub",
@@ -182,9 +182,7 @@ export const DATA = {
       active: true,
       description:
         "Designed a clean and user-friendly website for small business accounting services, making it easy for users to understand how bookkeeping and financial support can help them grow.",
-      technologies: [
-        
-      ],
+      technologies: [],
       links: [
         {
           type: "Website",
@@ -193,8 +191,7 @@ export const DATA = {
         },
       ],
       image: "/businessfacts.png",
-      video:
-        "",
+      video: "",
     },
     {
       title: "Zyroll",
@@ -203,9 +200,7 @@ export const DATA = {
       active: true,
       description:
         "Designed the ZyRoll website, which promotes our company’s payroll solutions for accountants, highlighting accurate processing and seamless management.",
-      technologies: [
-        
-      ],
+      technologies: [],
       links: [
         {
           type: "Website",
@@ -228,9 +223,7 @@ export const DATA = {
       active: true,
       description:
         "Designed the Invisor.in website as a learning platform offering CMA, EA, and FCP courses, making it easy for students to explore programs and start their learning journey.",
-      technologies: [
-        
-      ],
+      technologies: [],
       links: [
         {
           type: "Website",
@@ -241,7 +234,7 @@ export const DATA = {
       image: "/invisorlearning.png",
       video: "",
     },
-       {
+    {
       title: "Invisor Staffing",
       href: "https://invisorstaffing.com/",
       dates: "",
@@ -276,9 +269,7 @@ export const DATA = {
       active: true,
       description:
         "Designed the Fintalent.in website to simplify hiring and job searching—offering instant access to experienced professionals and a seamless journey for both candidates and recruiters.",
-      technologies: [
-       
-      ],
+      technologies: [],
       links: [
         {
           type: "Website",
@@ -287,8 +278,7 @@ export const DATA = {
         },
       ],
       image: "/fintalent.png",
-      video:
-        "",
+      video: "",
     },
     {
       title: "Invisor CMA",
@@ -297,9 +287,7 @@ export const DATA = {
       active: true,
       description:
         "Designed the Invisor CMA Online website to help aspiring finance professionals access focused learning, expert mentorship, and a simpler path to CMA success.",
-      technologies: [
-        
-      ],
+      technologies: [],
       links: [
         {
           type: "Website",
@@ -308,8 +296,7 @@ export const DATA = {
         },
       ],
       image: "/cmaonline.png",
-      video:
-        "",
+      video: "",
     },
   ],
   hackathons: [

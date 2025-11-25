@@ -6,7 +6,6 @@ import { ResumeCard } from "@/components/resume-card";
 import { Avatar, AvatarFallback, AvatarImage } from "@/components/ui/avatar";
 import { Badge } from "@/components/ui/badge";
 import { DATA } from "@/data/resume";
-import Link from "next/link";
 import Markdown from "react-markdown";
 
 const BLUR_FADE_DELAY = 0.04;
@@ -207,15 +206,12 @@ export default function Page() {
               </h2>
               <p className="mx-auto max-w-[600px] text-muted-foreground md:text-xl/relaxed lg:text-base/relaxed xl:text-xl/relaxed">
                 Email: catherincr19@gmail.com<br></br>
-                phone: 9400096902
-              
                 {/* <Link
                   href={DATA.contact.social.X.url}
                   className="text-blue-500 hover:underline"
                 >
                   with a direct question on twitter
                 </Link>{" "} */}
-              
               </p>
             </div>
           </BlurFade>
